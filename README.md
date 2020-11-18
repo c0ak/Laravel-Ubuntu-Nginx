@@ -4,11 +4,7 @@ How to setup Laravel on Ubuntu using Nginx engine with a MYSQL database.
 
 ## Getting Started 
 ```
-sudo apt-get update && sudo apt-get upgrade && sudo apt-get install nginx php7.2-fpm php7.2-mbstring php7.2-xmlrpc php7.2-soap php7.2-gd php7.2-xml php7.2-cli php7.2-zip php7.2-mysql
-```
-or  
-```
-sudo apt-get update && sudo apt-get upgrade && sudo apt-get install nginx php-fpm php-mbstring php-xmlrpc php-soap php-gd php-xml php-cli php-zip php-mysql
+sudo apt-get update && sudo apt-get upgrade && sudo apt-get install nginx php-fpm php-mbstring php-xmlrpc php-soap php-gd php-xml php-cli php-zip php-mysql ext-curl
 php -v
 // ^ Replace php7.2 with php{Version}
 ```

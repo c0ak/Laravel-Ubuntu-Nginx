@@ -1,6 +1,6 @@
 # Laravel-Ubuntu-Nginx
 
-How to setup Laravel on Ubuntu using Nginx engine with a MYSQL database.
+Guide
 
 ## Getting Started 
 ```
